@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this reproducibility workspace, please cite it using the metadata below."
+title: "Thermo Glycine Analysis"
+type: software
+authors:
+  - family-names: "Lee"
+    given-names: "Jiyeong"
+repository-code: "https://github.com/yzyzero0098/thermo-glycine-analysis"
+abstract: "Curated reproducibility workspace for heat-stress glycine supplementation analysis, including 16S microbiome, RNA-seq, phenotype, and integration scripts."
+license: MIT
+date-released: 2026-06-11
