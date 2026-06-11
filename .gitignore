@@ -1,0 +1,70 @@
+# Raw sequencing and omics data
+*.fastq
+*.fq
+*.fastq.gz
+*.fq.gz
+*.bam
+*.bai
+*.sam
+*.cram
+*.vcf
+*.gtf
+*.fa
+*.fasta
+*.fna
+
+# QIIME2 and microbiome binary artifacts
+*.qza
+*.qzv
+*.biom
+*.jplace
+*.tre
+*.nwk
+
+# Mass spectrometry and vendor/raw binary files
+*.raw
+*.mzML
+*.mzXML
+*.wiff
+*.d
+
+# Archives and installers
+*.zip
+*.tar
+*.tar.gz
+*.tgz
+*.7z
+*.rar
+*.msi
+*.exe
+
+# Documents and presentation working files
+*.ppt
+*.pptx
+*.doc
+*.docx
+*.hwp
+*.hwpx
+*.pdf
+~$*
+
+# Generated outputs and caches
+__pycache__/
+*.pyc
+.Rhistory
+.RData
+.Rproj.user/
+*.log
+*.tmp
+*.html
+*.htm
+dist/
+node_modules/
+
+# Local-only data/output folders
+raw/
+raw_data/
+data/raw/
+intermediate/
+outputs/
+results/raw/

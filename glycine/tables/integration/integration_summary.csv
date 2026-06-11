@@ -1,0 +1,4 @@
+analysis,statistic,p_value,note
+Procrustes protest,0.14758676384558253,0.873,Exploratory RNA–microbiome coordination on matched samples using 2D ordinations.
+Mantel,0.2617075197641834,0.105,Distance-matrix concordance between RNA MDS and genus-level Bray-Curtis microbiome distances.
+Mediation feasibility,NA,NA,Mediation analysis not defensible with current local phenotype structure because phenotype values are constant within treatment in the matched table and do not provide independent sample-level variation.

@@ -1,0 +1,13 @@
+taxon,rho,p,max_rel,mean_rel
+d__Bacteria; p__Firmicutes; c__Bacilli; o__Lactobacillales; f__Enterococcaceae; g__Enterococcus,0.5672567494355795,0.034379933615168716,0.056867747510492964,0.02040462986231129
+d__Bacteria; p__Firmicutes; c__Clostridia; o__Peptostreptococcales-Tissierellales; f__Peptostreptococcaceae; g__Romboutsia,0.5609720627378995,0.03688610473708892,0.0708641821688546,0.013800934140970248
+d__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridia_UCG-014; f__Clostridia_UCG-014; g__Clostridia_UCG-014,0.5463583647081529,0.04323189338007754,0.009197980931015143,0.0010996496250120346
+d__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Pasteurellales; f__Pasteurellaceae; g__Gallibacterium,0.475044330460816,0.08605608305542231,0.018434696732779195,0.0030771692700663524
+d__Bacteria; p__Actinobacteriota; c__Coriobacteriia; o__Coriobacteriales; f__Atopobiaceae,0.46684007451418924,0.09239545366072716,0.008749298934380258,0.001337768550874663
+d__Bacteria; p__Firmicutes; c__Bacilli; o__Erysipelotrichales; f__Erysipelotrichaceae; g__Turicibacter,0.43747906353845406,0.11773584297062506,0.007242202287877541,0.001437250575257347
+d__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Clostridiaceae; g__Clostridium_sensu_stricto_13,0.43076923076923085,0.12412955584045597,0.007077606781334869,0.0006355920168852688
+d__Bacteria; p__Firmicutes; c__Bacilli; o__Staphylococcales; f__Staphylococcaceae; g__Macrococcus,0.43076923076923085,0.12412955584045597,0.006007735988807506,0.0005973797479386179
+d__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Clostridiaceae; g__Clostridium_sensu_stricto_16,0.43076923076923085,0.12412955584045597,0.0022220393383260637,0.0002569171157655338
+d__Bacteria; p__Firmicutes; c__Bacilli; o__Bacillales; f__Planococcaceae,0.43076923076923085,0.12412955584045597,0.0015636573121553781,0.00020723577358270216
+d__Bacteria; p__Firmicutes,0.43076923076923085,0.12412955584045597,0.0015074114395779248,0.00012462858311525237
+d__Bacteria; p__Actinobacteriota; c__Actinobacteria; o__Propionibacteriales; f__Propionibacteriaceae; g__uncultured,0.43076923076923085,0.12412955584045597,0.0012561761996482707,0.0001278786306234564

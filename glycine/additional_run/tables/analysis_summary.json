@@ -1,0 +1,83 @@
+{
+  "n_matched_samples": 17,
+  "modules": {
+    "ECM_ADHESION": 454,
+    "GOLGI_VESICLE": 315,
+    "AUTOPHAGY_PROTEOSTASIS": 469,
+    "RESPIRATION_OXPHOS": 193
+  },
+  "top_correlations": [
+    {
+      "module": "GOLGI_VESICLE",
+      "taxon": "Turicibacter",
+      "gsva_rho": -0.49614416663247396,
+      "gsva_perm_pvalue": 0.0415
+    },
+    {
+      "module": "RESPIRATION_OXPHOS",
+      "taxon": "Enterococcus",
+      "gsva_rho": -0.4926470588235295,
+      "gsva_perm_pvalue": 0.0445
+    },
+    {
+      "module": "RESPIRATION_OXPHOS",
+      "taxon": "Romboutsia",
+      "gsva_rho": -0.4615739884914515,
+      "gsva_perm_pvalue": 0.068
+    },
+    {
+      "module": "AUTOPHAGY_PROTEOSTASIS",
+      "taxon": "Turicibacter",
+      "gsva_rho": -0.4330506887948183,
+      "gsva_perm_pvalue": 0.078
+    },
+    {
+      "module": "GOLGI_VESICLE",
+      "taxon": "Romboutsia",
+      "gsva_rho": -0.41938711857556615,
+      "gsva_perm_pvalue": 0.0915
+    },
+    {
+      "module": "RESPIRATION_OXPHOS",
+      "taxon": "Turicibacter",
+      "gsva_rho": -0.36995721095716266,
+      "gsva_perm_pvalue": 0.149
+    },
+    {
+      "module": "ECM_ADHESION",
+      "taxon": "Turicibacter",
+      "gsva_rho": 0.347014128107106,
+      "gsva_perm_pvalue": 0.174
+    },
+    {
+      "module": "AUTOPHAGY_PROTEOSTASIS",
+      "taxon": "Romboutsia",
+      "gsva_rho": -0.33501337874379544,
+      "gsva_perm_pvalue": 0.1755
+    },
+    {
+      "module": "AUTOPHAGY_PROTEOSTASIS",
+      "taxon": "Bacteroides",
+      "gsva_rho": 0.2991031039410072,
+      "gsva_perm_pvalue": 0.2385
+    },
+    {
+      "module": "ECM_ADHESION",
+      "taxon": "Romboutsia",
+      "gsva_rho": 0.2804186059114732,
+      "gsva_perm_pvalue": 0.2605
+    },
+    {
+      "module": "ECM_ADHESION",
+      "taxon": "Bacteroides",
+      "gsva_rho": -0.2812666803114976,
+      "gsva_perm_pvalue": 0.289
+    },
+    {
+      "module": "GOLGI_VESICLE",
+      "taxon": "Enterococcus",
+      "gsva_rho": -0.27450980392156865,
+      "gsva_perm_pvalue": 0.2965
+    }
+  ]
+}

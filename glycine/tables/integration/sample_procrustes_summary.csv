@@ -1,0 +1,3 @@
+analysis,n_pairs,dims,disparity,permutation_p_1999,label
+sample_procrustes_matched16_bray,14,Axis1-2,0.8172558884831489,0.1730865432716358,secondary_exploratory
+sample_procrustes_matched16_weighted_unifrac,14,Axis1-2,0.9912998462466875,0.9829914957478739,secondary_exploratory

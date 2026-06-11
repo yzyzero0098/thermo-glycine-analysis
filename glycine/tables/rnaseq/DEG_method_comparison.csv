@@ -1,0 +1,7 @@
+"comparison","method","tested_genes","total_sig","up_sig","down_sig"
+"NC_vs_PC","DESeq2",17396,86,59,27
+"NC_vs_PC","edgeR",17421,44,26,18
+"NC_vs_G25","DESeq2",17396,4,1,3
+"NC_vs_G25","edgeR",17421,0,0,0
+"NC_vs_G50","DESeq2",17396,884,818,66
+"NC_vs_G50","edgeR",17421,944,889,55

@@ -1,0 +1,2 @@
+contrast,n_samples_G50,n_samples_PC,genes_tested,n_sig_fdr005_lfc1,n_up_G50,n_up_PC,median_abs_log2fc_all
+G50_vs_PC,5,7,21392,12,11,1,0.2201863580671946

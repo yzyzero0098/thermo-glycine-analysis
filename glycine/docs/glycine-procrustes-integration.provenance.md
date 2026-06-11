@@ -1,0 +1,32 @@
+# Provenance: glycine procrustes integration
+
+- **Date:** 2026-04-21
+- **Rounds:** 1 researcher round + 1 local recomputation/synthesis round
+- **Sources consulted:** 40 cited sources in the final brief (local artifacts, intermediate research notes, and external method/framing URLs)
+- **Sources accepted:** 40
+- **Sources rejected:** 0 in the final cited brief
+- **Verification:** PASS WITH NOTES — initial verification found calibration issues around concordance strength, Bray-vs-weighted interpretation, and threshold/host-dominance wording; these were revised, and round-2 verification reported PASS WITH NOTES with only a minor wording residue, which was then tightened in the final brief.
+- **Plan:** `outputs/.plans/glycine-procrustes-integration.md`
+- **Research files:**
+  - `notes/glycine-procrustes-integration-research-methods.md`
+  - `notes/glycine-procrustes-integration-research-16s.md`
+  - `notes/glycine-procrustes-integration-research-host.md`
+  - `notes/glycine-procrustes-integration-research-framing.md`
+  - `notes/glycine-procrustes-integration-crosswalk.md`
+  - `notes/glycine-procrustes-integration-design-decision.md`
+  - `notes/glycine-procrustes-integration-dose-response.md`
+- **Computation artifacts:**
+  - `experiments/glycine-procrustes-integration/run_analysis.py`
+  - `experiments/glycine-procrustes-integration/crosswalk/`
+  - `experiments/glycine-procrustes-integration/transcriptome_ordination/`
+  - `experiments/glycine-procrustes-integration/microbiome_ordination/`
+  - `experiments/glycine-procrustes-integration/procrustes/`
+  - `experiments/glycine-procrustes-integration/phenotype/`
+  - `experiments/glycine-procrustes-integration/transcriptome_direct_contrast/`
+- **Verification files:**
+  - `notes/glycine-procrustes-integration-verification.md`
+  - `notes/glycine-procrustes-integration-verification-round2.md`
+- **Figure artifact:**
+  - `outputs/glycine-procrustes-integration-pc-distance-ratios.png`
+- **Notes:**
+  - The bundled `verifier` agent was not available in this environment. Citation anchoring was completed with a worker pass plus lead-agent claim-sweep and two reviewer-style verification passes.

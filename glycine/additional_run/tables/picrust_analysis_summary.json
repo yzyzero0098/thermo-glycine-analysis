@@ -1,0 +1,24 @@
+{
+  "pathway_selected_n": 18,
+  "ec_selected_n": 18,
+  "top_pathway_names": [
+    "adenosine ribonucleotides de novo biosynthesis",
+    "glycolysis III (from glucose)",
+    "UDP-N-acetyl-D-glucosamine biosynthesis I",
+    "phosphatidylglycerol biosynthesis I (plastidic)",
+    "phosphatidylglycerol biosynthesis II (non-plastidic)",
+    "superpathway of pyrimidine nucleobases salvage",
+    "UDP-N-acetylmuramoyl-pentapeptide biosynthesis II (lysine-containing)",
+    "peptidoglycan biosynthesis I (meso-diaminopimelate containing)"
+  ],
+  "top_ec_names": [
+    "citrate lyase holo-[acyl-carrier protein] synthase",
+    "triphosphoribosyl-dephospho-CoA synthase",
+    "citrate CoA-transferase",
+    "EC:6.2.1.22",
+    "EC:3.6.1.11",
+    "EC:3.6.1.40",
+    "EC:3.2.1.70",
+    "IMP dehydrogenase"
+  ]
+}

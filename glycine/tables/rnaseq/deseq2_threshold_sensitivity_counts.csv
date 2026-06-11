@@ -1,0 +1,19 @@
+comparison,rule,count
+NC_vs_PC,FDR<0.05 & |log2FC|>=1,86
+NC_vs_PC,FDR<0.10 & |log2FC|>=1,175
+NC_vs_PC,FDR<0.05 & |log2FC|>=0.5,429
+NC_vs_PC,FDR<0.10 & |log2FC|>=0.5,669
+NC_vs_PC,rawP<0.05 & |log2FC|>=1,484
+NC_vs_PC,rawP<0.05 & |log2FC|>=0.5,1371
+NC_vs_G25,FDR<0.05 & |log2FC|>=1,4
+NC_vs_G25,FDR<0.10 & |log2FC|>=1,40
+NC_vs_G25,FDR<0.05 & |log2FC|>=0.5,7
+NC_vs_G25,FDR<0.10 & |log2FC|>=0.5,96
+NC_vs_G25,rawP<0.05 & |log2FC|>=1,485
+NC_vs_G25,rawP<0.05 & |log2FC|>=0.5,1021
+NC_vs_G50,FDR<0.05 & |log2FC|>=1,884
+NC_vs_G50,FDR<0.10 & |log2FC|>=1,1188
+NC_vs_G50,FDR<0.05 & |log2FC|>=0.5,1796
+NC_vs_G50,FDR<0.10 & |log2FC|>=0.5,2395
+NC_vs_G50,rawP<0.05 & |log2FC|>=1,1460
+NC_vs_G50,rawP<0.05 & |log2FC|>=0.5,2955

@@ -1,0 +1,4 @@
+Distance,pseudo_F,p_value,n_permutations
+Bray-Curtis,1.27575970485055,0.1397,9999
+Unweighted UniFrac,1.0840251438874449,0.3056,9999
+Weighted UniFrac,1.7852104027225417,0.035,9999
